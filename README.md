@@ -48,8 +48,11 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Divinepath6&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divinepath6&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divinepath6&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Jesús Cervantes" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divinepath6&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Jesús Cervantes" />
 </p>
 
 ---
